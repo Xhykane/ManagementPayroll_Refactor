@@ -2,6 +2,11 @@
 
 This repository contains the **refactored version** of a legacy Payroll Management System application. This project is part of the **COMP6106001 - Code Reengineering** course assignment.
 
+# Our Group :
+1. 2702369516 - MUHAMMAD ASLAM SIDDIQ
+2. 2702376635 - PUTU JEYAN WAHYUDA
+3. 2702379012 - MIKHAEL VICTOR SIAGIAN
+
 ## 📂 Original Source (Legacy Code)
 The original code was retrieved from an open-source repository containing several "Code Smells" used as a case study for this refactoring project. The primary issues identified were **Long Parameter List** and **Data Clumps**.
 
